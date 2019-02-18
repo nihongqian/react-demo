@@ -1,0 +1,88 @@
+/* ul, li {
+    font-style: normal;
+    list-style: none;
+}
+#rem_s {margin-right: 2%;position: absolute; top: 5px; right: 3%;}
+.select 
+{
+    border-top: solid 1px #e6e6e6;
+    padding-right: 4%;
+    position: relative;
+    overflow: hidden;
+    padding: 12px 0;
+}
+.select img {
+    width: 80px;
+    height: 80px;
+    max-width: 80px;
+    max-height: 80px;
+    float: left;
+    margin-left: 28px;
+    border: 0;
+}
+.select h4 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    color: #333;
+    margin: 0;
+    margin-bottom: 2px;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.mr-6{
+    margin-right: 6%;
+}
+ p {
+    margin: 0;
+    color: #FC605A;
+    margin-top: 6px;
+    font-family: "-apple-system","Helvetica Neue",Roboto,"Segoe UI",sans-serif;
+}
+.div_center {
+    width: 69%;
+    float: left;
+    position: relative;
+    margin-top: 7px;
+    margin-left: 2%;
+}
+.div_right {
+    position: absolute;
+    bottom: 10px;
+    right: 4%;
+    border: solid 1px #e6e6e6;
+    border-radius: 4px;
+    width: 82px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 30px;
+}
+.del {
+    position: absolute;
+    width: 50px;
+    height: 200px;
+    background: #FC605A;
+    right: 0;
+    top: 20%;
+} */
+
+.rem_s {margin-right: 2%;position: absolute; top: 5px; right: 3%;}
+.contaniner{padding-top: 56px;padding-bottom:16%; }
+.contaniner .shopcar .checkbox{position: relative; float: left; width:10%; height: 3em; padding: 10% 0;}
+.contaniner .shopcar{ width: 100%; margin: 2% 0; padding: 4% 0; box-shadow: 0 2px 2px #d7d7d7; background-color: #fff;overflow: hidden;}
+.contaniner .shopcar .img{ width: 30%; height: 10em; overflow: hidden; float: left;}
+.contaniner .shopcar .img img{ width: 100%; min-height: 100%; }
+.contaniner .shopcar dl{ position: relative; float: left; width: 54%; height: 10em;   margin: 0 3%; overflow: hidden;}
+.contaniner .shopcar dl dt{ font-size: 1.3815em; color: #333;}
+.contaniner .shopcar dl dd{ font-size: 1.169em; color: #999;}
+.contaniner .shopcar dl .add{position: absolute; bottom: 0; left: 0; width: 46%; overflow: hidden; display: table;}
+.contaniner .shopcar dl .add span{border: solid 1px #c8c8c8; padding: 1%; display:table-cell;}
+.contaniner .shopcar dl .add p{border: solid 1px #c8c8c8; width:100%;margin-left: -1px; display:table-cell;font-size:1.25em ; padding: 10% 0; color: #666; text-align: center;}
+.contaniner .shopcar dl h3{ position: absolute; right: 3%; bottom: 20%; font-size: 1.9em; color: #fc605a; font-weight: normal;}
+.contaniner .shopcar dl small{ position: absolute; right: 3%; bottom: 0; display: block; width: 10%;}
+.contaniner .shopcar dl small img{width: 100%;}

@@ -1,0 +1,19 @@
+[{
+        "data": {
+            "username": "alex",
+            "password": "alex123"
+        },
+        "auth": true,
+        "time": 10000,
+        "startTime": 0
+    },
+    {
+        "data": {
+            "username": "pan",
+            "password": "pan123"
+        },
+        "auth": true,
+        "time": 10000,
+        "startTime": 0
+    }
+]

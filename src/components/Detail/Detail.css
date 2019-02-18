@@ -1,0 +1,38 @@
+/*new-personal-details*/
+.new-personal-details{padding-bottom: 45px;}
+.deails-con{width: 100%;padding: 3%;margin-top:5px;}
+.deails-con .deails-con-title{font-size: 17px;}
+.deails-con-price{display: flex;justify-content: space-between;margin-top:3%;}
+.deails-con-price span:nth-child(1){font-size: 18px;font-weight: bold;color: #ff395c;}
+.deails-con-price span:nth-child(2){color: #b7b7b7;}
+.deails-con-text{background: #fff;padding: .2rem; padding: .9rem 0;font-weight: bold;}
+.deails-con-text__li{font-size: 14px;}
+
+.details-price__button{display: flex;justify-content: space-around;position: fixed;bottom: 0;left: 0;width: 100%;background: #fff;border-top: solid 1px #efefef;align-items: center;height: 40px;line-height: 40px;margin: 0;padding: 0;}
+.details-price__button .add-cart{display: flex;align-content: center;width: 50%;text-align: center;}
+.details-price__button .add-cart span{margin-left: 27%;margin-top: 4%;margin-right: 4%;}
+.details-price__button .add-cart p{line-height: 40px;margin: 0;}
+.details-price__button .buy{width: 50%;background-color: #F56B6B;text-align: center;color: #fff;}
+.details-price__button .buy a{color: #fff;}
+.true-button{    width: 94%;
+    margin: auto;
+    display: block;
+    background: #F15353;
+    color: #fff;
+    padding: 1.67%;
+    border-radius: 4rem;
+    border: none;
+    margin-top: 27%;}
+.icon-gouCenter {
+    position: fixed;
+    top: 2%;
+    right: 5%;
+    color: #f56b6b;
+    z-index: 10000;
+    width: 2.5rem;
+    text-align: center;
+    height:2.5rem;
+    border-radius: 6rem;
+    background-color: rgba(0,0,0,.3);
+}
+.icon-gouCenter span{margin-top: 15%;color: #fff;}

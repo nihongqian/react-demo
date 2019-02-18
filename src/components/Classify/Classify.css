@@ -1,0 +1,11 @@
+.classification input.sch-txt{height: 23px; border: none;font-size: 15px;margin-top: 1%;padding-right: 11%;}
+.classification .top-sch-box .fdj{margin-top:-6px;}
+.classification .search__button{border: none;background-color: #fb9c98;color: #fff;position: fixed;top:8px; right: 5%;height: 29px;}
+.classification-list{width: 100%;overflow: scroll;}
+.classification-list #tabs{width: 260%;display: flex;padding: 0;}
+.classification-list #tabs li{margin:0 2%;}
+.classification-list #tabs a{color: #000;}
+.list-nav-tabs{width: 100%;overflow-x: scroll;-ms-overflow-x: scroll;}
+.classification-list #content{width: 100%;overflow: hidden;}
+ #content .mui-card{width: 45%;}
+ .classification-list #tabs .current a{color: #f00;}

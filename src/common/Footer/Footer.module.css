@@ -1,0 +1,5 @@
+/*公共导航部分*/
+.nav-footer{width: 100%;position: fixed;bottom: 0;left: 0;display: flex;align-items: center;justify-content: space-around;background: #fff;border-top: solid 1px #e6e6e6;padding: 1%;height: 50px;}
+.nav-footer a{display: flex;flex-direction: column;align-content: center;align-items: center;font-size: 11px;color: #929292;}
+.nav-footer a span.mui-icon{height: 25px;overflow: hidden;font-size: 23px;padding-top: 2px;}
+.nav-footer .icon-active{color: #FC605A;}
